@@ -2,3 +2,4 @@
 // comments
 
 let str = "test";
+// new comment
